@@ -6,18 +6,13 @@ __pycache__/
 *.swp
 .vscode/
 .idea/
-
-# Word/Office temp files
 ~$*
-
-# System + Snap clutter
 snap/
 .cache/
 .local/
 .config/
-*.tmp
-
-# Build artifacts
+**/.Trash*/
+.local/share/Trash/
 /build/
 /dist/
 /release/
