@@ -1,15 +1,22 @@
+# OS / editor
 .DS_Store
 __pycache__/
 *.pyc
 *.log
-*.tmp
 *.swp
-.env
-.env.*
 .vscode/
 .idea/
-# Word/Office temp files
+
+# Office temp
 ~$*
+
+# System clutter
+snap/
+.cache/
+.local/
+.config/
+*.tmp
+
 # Build artifacts
 /build/
 /dist/
