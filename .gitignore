@@ -1,0 +1,23 @@
+# OS / editor
+.DS_Store
+__pycache__/
+*.pyc
+*.log
+*.swp
+.vscode/
+.idea/
+
+# Word/Office temp files
+~$*
+
+# System + Snap clutter
+snap/
+.cache/
+.local/
+.config/
+*.tmp
+
+# Build artifacts
+/build/
+/dist/
+/release/
