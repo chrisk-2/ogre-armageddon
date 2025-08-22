@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ogre/Downloads/Ogre_Armageddon_Consolidated_Blueprint.docx" added="2025-08-22T05:12:57.969046Z" modified="2025-08-22T05:12:59.035276Z" visited="2025-08-22T05:12:57.969047Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2025-08-22T05:12:59.035274Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ogre/Downloads/Ogre_Armageddon_ChangeLog_Tracker.docx" added="2025-08-22T05:15:33.345306Z" modified="2025-08-22T05:15:34.233927Z" visited="2025-08-22T05:15:33.345307Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2025-08-22T05:15:34.233925Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ogre/Downloads/Ogre_Core_Docs_Pack_Stardate_2025.234_Final/Ogre_Agent_HQ_Decision_Matrix_Final.docx" added="2025-08-22T05:28:22.515952Z" modified="2025-08-22T05:41:50.867677Z" visited="2025-08-22T05:28:22.515952Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2025-08-22T05:41:50.867675Z" count="5"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2025-08-22T05:41:49.126760Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ogre/Downloads/Ogre_Core_Docs_Pack_Stardate_2025.234_Final/Ogre_Agent_HQ_Roadmap_Final.docx" added="2025-08-22T05:28:43.417698Z" modified="2025-08-22T05:28:56.659484Z" visited="2025-08-22T05:28:43.417699Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2025-08-22T05:28:56.659483Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ogre/Downloads/Ogre_Core_Docs_Pack_Stardate_2025.234_Final/Ogre_Armageddon_ChangeLog_Tracker_Priorities_Final.docx" added="2025-08-22T05:28:58.385559Z" modified="2025-08-22T05:29:05.216103Z" visited="2025-08-22T05:28:58.385559Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2025-08-22T05:29:05.216101Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ogre/Downloads/Ogre_Core_Docs_Pack_Stardate_2025.234_Final/Ogre_Armageddon_Consolidated_Blueprint_Final.docx" added="2025-08-22T05:29:06.786045Z" modified="2025-08-22T05:42:02.366629Z" visited="2025-08-22T05:29:06.786046Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2025-08-22T05:42:02.366627Z" count="7"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2025-08-22T05:42:00.582058Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ogre/Downloads/Ogre_Core_Docs_Pack_Stardate_2025.234_Final/Ogre_Armageddon_Master_Build_Decision_Matrix_Filled_Final.docx" added="2025-08-22T05:29:16.884170Z" modified="2025-08-22T05:42:15.830304Z" visited="2025-08-22T05:29:16.884170Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2025-08-22T05:42:15.830302Z" count="5"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2025-08-22T05:42:14.110329Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ogre/Downloads/Ogre_Core_Docs_Pack_Stardate_2025.234_Final/Ogre_Storage_Layout_Final.docx" added="2025-08-22T05:29:24.553152Z" modified="2025-08-22T05:41:44.584501Z" visited="2025-08-22T05:29:24.553153Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2025-08-22T05:41:44.584499Z" count="5"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2025-08-22T05:41:42.858213Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ogre/Downloads/Ogre_Armageddon_Mission_Manual_Stardate_2025.234.docx" added="2025-08-22T05:41:08.796615Z" modified="2025-08-22T05:43:10.892268Z" visited="2025-08-22T05:41:08.796615Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2025-08-22T05:43:09.081981Z" count="2"/>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2025-08-22T05:43:10.892266Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ogre/Downloads/Ogre_Armageddon_Mission_Manual_Stardate_2025.234(1).docx" added="2025-08-22T05:41:27.924940Z" modified="2025-08-22T05:42:59.180870Z" visited="2025-08-22T05:41:27.924941Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2025-08-22T05:42:57.426297Z" count="2"/>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2025-08-22T05:42:59.180868Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ogre/Downloads/Ogre_Core_Docs_Pack_Stardate_2025.234_Final/Ogre_Armageddon_Mission_Manual_Stardate_2025.234.docx" added="2025-08-22T05:42:19.849867Z" modified="2025-08-22T05:42:21.579946Z" visited="2025-08-22T05:42:19.849868Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2025-08-22T05:42:19.849873Z" count="1"/>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2025-08-22T05:42:21.579944Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ogre" added="2025-08-22T06:09:30.294319Z" modified="2025-08-22T06:09:30.307265Z" visited="2025-08-22T06:09:30.294320Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-08-22T06:09:30.307264Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ogre/Downloads/OneDriveSetup.exe" added="2025-08-22T04:52:12.184187Z" modified="2025-08-22T04:52:12.184192Z" visited="2025-08-22T04:52:12.184188Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-08-22T04:52:12.184190Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ogre/Downloads/ogrelogs.zip" added="2025-08-22T04:55:47.690763Z" modified="2025-08-22T04:55:47.690771Z" visited="2025-08-22T04:55:47.690764Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-08-22T04:55:47.690767Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ogre/Downloads/Ogre_Armageddon_Master_Build_Decision_Matrix_Filled.docx" added="2025-08-22T05:12:34.962425Z" modified="2025-08-22T05:12:34.962431Z" visited="2025-08-22T05:12:34.962426Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-08-22T05:12:34.962428Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ogre/Downloads/Ogre_Armageddon_Consolidated_Blueprint.docx" added="2025-08-22T05:12:51.451623Z" modified="2025-08-22T05:12:51.451629Z" visited="2025-08-22T05:12:51.451624Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-08-22T05:12:51.451626Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ogre/Downloads/Ogre_Armageddon_ChangeLog_Tracker.docx" added="2025-08-22T05:15:28.506605Z" modified="2025-08-22T05:15:28.506610Z" visited="2025-08-22T05:15:28.506605Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-08-22T05:15:28.506607Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ogre/Downloads/Ogre_Core_Docs_Pack.zip" added="2025-08-22T05:16:30.252374Z" modified="2025-08-22T05:16:30.252381Z" visited="2025-08-22T05:16:30.252375Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-08-22T05:16:30.252378Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ogre/Downloads/Ogre_Core_Docs_Pack_Stardate_2025.234_Final.zip" added="2025-08-22T05:28:04.075306Z" modified="2025-08-22T05:40:50.132501Z" visited="2025-08-22T05:28:04.075307Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-08-22T05:40:50.132496Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ogre/Downloads/Ogre_Armageddon_Mission_Manual_Stardate_2025.234.docx" added="2025-08-22T05:40:35.248725Z" modified="2025-08-22T05:40:35.248730Z" visited="2025-08-22T05:40:35.248726Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-08-22T05:40:35.248728Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ogre/Downloads/Ogre_Armageddon_Mission_Manual_Stardate_2025.234(1).docx" added="2025-08-22T05:40:43.731453Z" modified="2025-08-22T05:40:43.731459Z" visited="2025-08-22T05:40:43.731454Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-08-22T05:40:43.731456Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

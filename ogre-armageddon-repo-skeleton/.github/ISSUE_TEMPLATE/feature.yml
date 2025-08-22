@@ -1,0 +1,15 @@
+name: Feature Request
+description: Request a feature or improvement
+title: "[FEAT] "
+labels: ["enhancement"]
+body:
+  - type: input
+    id: stardate
+    attributes:
+      label: Target Stardate
+      placeholder: "2025.234"
+  - type: textarea
+    id: pitch
+    attributes:
+      label: The pitch
+      description: What and why (purpose/mission/ops)?

@@ -1,0 +1,12 @@
+name: Bug Report
+description: Report an issue in the Ogre Armageddon stack
+title: "[BUG] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Include logs, Stardate, and which module (HQ/Agent/Jarvis/Infra)
+    validations:
+      required: true

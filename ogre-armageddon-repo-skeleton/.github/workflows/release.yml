@@ -1,0 +1,41 @@
+name: Build & Release Stardate Pack
+
+on:
+  workflow_dispatch:
+    inputs:
+      stardate:
+        description: 'Stardate (YYYY.DDD)'
+        required: true
+      note:
+        description: 'Release notes title'
+        required: false
+  push:
+    tags:
+      - 'Stardate-*'
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Prepare release zip
+        run: |
+          mkdir -p release
+          zip -r "release/Ogre_Core_Docs_Pack_${{ github.event.inputs.stardate || 'DEV' }}.zip" docs/ README.md LICENSE
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.event.inputs.stardate && format('Stardate-0', github.event.inputs.stardate) || 'Stardate-DEV' }}
+          name: ${{ github.event.inputs.note || 'Ogre Armageddon Release' }}
+          body: |
+            Stardate: ${{ github.event.inputs.stardate || 'DEV' }}
+            Notes: ${{ github.event.inputs.note || 'Automated Stardate release' }}
+          files: |
+            release/*.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

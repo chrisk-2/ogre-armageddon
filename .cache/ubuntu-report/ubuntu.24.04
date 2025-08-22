@@ -1,0 +1,83 @@
+{
+  "Version": "24.04",
+  "OEM": {
+    "Vendor": "Dell Inc.",
+    "Product": "Inspiron 3847",
+    "Family": "To be filled by O.E.M."
+  },
+  "BIOS": {
+    "Vendor": "Dell Inc.",
+    "Version": "A04"
+  },
+  "Arch": "amd64",
+  "HwCap": "x86-64-v3",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "0412"
+    }
+  ],
+  "RAM": 12.2,
+  "Disks": [
+    80,
+    128,
+    1000.2,
+    1000.2,
+    0,
+    0,
+    0
+  ],
+  "Partitions": [
+    75.3,
+    1.1
+  ],
+  "Screens": [
+    {
+      "Size": "480mmx300mm",
+      "Resolution": "1280x720",
+      "Frequency": "59.86"
+    },
+    {
+      "Size": "440mmx250mm",
+      "Resolution": "1600x900",
+      "Frequency": "59.95"
+    }
+  ],
+  "Autologin": true,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "wayland"
+  },
+  "Language": "en_US",
+  "Timezone": "America/Chicago",
+  "Install": {
+    "Type": "Flutter",
+    "OEM": false,
+    "Media": "Ubuntu 24.04.2 LTS",
+    "Stages": {
+      "2": "locale",
+      "46": "accessibility",
+      "47": "keyboard",
+      "48": "network",
+      "50": "refresh",
+      "51": "tryOrInstall",
+      "54": "autoinstall",
+      "64": "autoinstall",
+      "67": "sourceSelection",
+      "73": "codecsAndDrivers",
+      "119": "storage",
+      "224": "identity",
+      "327": "timezone",
+      "329": "confirm",
+      "331": "install",
+      "1071": "done"
+    },
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": true,
+    "PartitionMethod": "use_device",
+    "UseActiveDirectory": false
+  }
+}

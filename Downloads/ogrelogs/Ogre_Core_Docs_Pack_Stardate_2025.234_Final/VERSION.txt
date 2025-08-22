@@ -1,0 +1,4 @@
+Ogre Core Docs Pack
+Stardate: 2025.234
+Date: 2025-08-22
+Final Baseline Build
