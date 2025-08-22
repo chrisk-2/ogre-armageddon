@@ -1,6 +1,0 @@
-2025/08/21-23:30:44.023 b7d Reusing MANIFEST /home/ogre/snap/chatgpt-desktop-client/2/.config/chatgpt-desktop-client/Local Storage/leveldb/MANIFEST-000001
-2025/08/21-23:30:44.103 b7d Recovering log #5
-2025/08/21-23:30:44.103 b7d Reusing old log /home/ogre/snap/chatgpt-desktop-client/2/.config/chatgpt-desktop-client/Local Storage/leveldb/000005.log 
-2025/08/21-23:31:44.999 b7d Level-0 table #9: started
-2025/08/21-23:31:45.002 b7d Level-0 table #9: 13185 bytes OK
-2025/08/21-23:31:45.003 b7d Delete type=0 #5
